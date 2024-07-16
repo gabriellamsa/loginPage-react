@@ -1,6 +1,13 @@
 # React + Vite - LOGIN PAGE APP 
 
+## Running the project
 
+### NPM RUN DEV
+
+The aim of this project is to practice React and CSS! 
+The project was developed to recreate a login page
+
+------
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
